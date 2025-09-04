@@ -1,7 +1,7 @@
 {
   "name": "worktime-control-system",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Sistema de gestão de ponto eletrônico para empresas",
   "homepage": "https://github.com/VictOliRodrigues/worktime-control-system#readme",
   "bugs": {
     "url": "https://github.com/VictOliRodrigues/worktime-control-system/issues"
